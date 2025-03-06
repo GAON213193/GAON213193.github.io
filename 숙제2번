@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8">
+<title>숙제 2번</title>
+<style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    </style>
+</head>
+<body>
+<h1>한국 시총 순위</h1>
+
+<table>
+    <tr>
+      <th>순위</th>
+      <th>회사이름</th>
+      <th>시장구분</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>삼성전자</td>
+      <td>KOSPI</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SK하이닉스</td>
+      <td>KOSPI</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>삼성바이오로직스</td>
+      <td>KOSPI</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>LG에너지솔루션션</td>
+      <td>KOSPI</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>현대차</td>
+      <td>KOSPI</td>
+    </tr>
+  </table>
+
+<p>출처:한국거래소</p>
+
+</body>
+</html>
