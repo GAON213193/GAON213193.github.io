@@ -2,6 +2,7 @@
 
 20221190    
 윤가온
+<p></p>
 Link: [homework2-1][homework2-1]
 
-[homework2-1]: https://google.com "Go google"
+[homework2-1]: https://github.com/GAON213193/GAON213193.github.io/blob/main/homework%201.html
