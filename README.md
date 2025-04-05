@@ -11,6 +11,9 @@
 [**homework3-1.1**](https://GAON213193.github.io/homework3-1.1.jpg)<br>
 [**homework3-1.2**](https://GAON213193.github.io/homework3-1.2.jpg)<br>
 [**homework3-2**](https://GAON213193.github.io/homework3-2.jpg) [**homework3-2 code**](https://GAON213193.github.io/homework3-2code.png)<br>
+[**homework3-3**](https://GAON213193.github.io/homework3-3.jpg)<br>
+[**homework3-4**](https://GAON213193.github.io/homework3-4.jpg)<br>
+
 
 
 
